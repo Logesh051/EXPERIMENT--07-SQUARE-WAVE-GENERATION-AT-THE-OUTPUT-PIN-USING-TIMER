@@ -208,7 +208,8 @@ void Error_Handler(void)
 
 
  ## CIRCUIT DIAGRAM : 
- <img width="994" height="816" alt="image" src="https://github.com/user-attachments/assets/2b5df9ce-2d96-4f40-8213-9eeb2b3ed49b" />
+<img width="771" height="655" alt="image" src="https://github.com/user-attachments/assets/a4e218ac-df43-4be5-a87d-744a1e1009aa" />
+
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
